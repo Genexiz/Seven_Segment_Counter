@@ -5,4 +5,4 @@ Correct footprint mapping and PCB design rule setup are foundational to Design f
 Similarly, establishing proper PCB design rules (trace width, clearance, annular ring size, and solder mask expansion) ensures that fabrication shops can manufacture the board within acceptable tolerances. Overlooking these constraints leads to severe fabrication defects, including etched trace open-circuits, solder bridging during reflow, and thermal dissipation failures. Ultimately, rigorous rule verification and footprint validation eliminate costly re-spins, optimize assembly yield, and guarantee long-term operational integrity.
 
 
-![Project Screenshot](Symbol_and_footprint_Screenshot.png)
+![Project Screenshot](Symbol_ and_footprint_Screenshot.png)
